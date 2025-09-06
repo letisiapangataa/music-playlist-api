@@ -14,7 +14,7 @@ It demonstrates:
 - Automated testing using xUnit and FluentAssertions  
 - CI/CD pipelines with GitHub Actions  
 - Error handling and edge-case coverage for reliability  
-- An optional React + Vite frontend for visualization  
+- An optional React + Vite frontend for visualisation  
 
 ---
 ## Screenshot (Live Action)
