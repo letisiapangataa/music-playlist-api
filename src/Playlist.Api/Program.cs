@@ -1,3 +1,4 @@
+// (C) 2025 Letisia Pangata'a (@letisiapangataa)
 using Microsoft.AspNetCore.Http.HttpResults;
 using Playlist.Domain;
 

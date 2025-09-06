@@ -1,3 +1,4 @@
+// (C) 2025 Letisia Pangata'a (@letisiapangataa)
 namespace Playlist.Domain;
 
 public record Track(string Id, string Title, string Artist);

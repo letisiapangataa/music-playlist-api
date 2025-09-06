@@ -1,3 +1,4 @@
+// (C) 2025 Letisia Pangata'a (@letisiapangataa)
 using System;
 using System.Threading;
 using System.Threading.Tasks;

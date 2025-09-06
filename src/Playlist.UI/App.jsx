@@ -1,3 +1,4 @@
+// (C) 2025 Letisia Pangata'a (@letisiapangataa)
 import React, { useEffect, useState } from 'react';
 
 function App() {
