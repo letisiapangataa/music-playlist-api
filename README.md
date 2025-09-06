@@ -1,7 +1,6 @@
 # Music Playlist API  
-*A .NET 8 event-driven backend with a minimal API, flexible event bus (InMemory, RabbitMQ, Kafka), and optional React frontend.*  
 
-![CI](https://img.shields.io/github/actions/workflow/status/yourusername/music-playlist-api/ci.yml?branch=main)  
+![CI](https://img.shields.io/github/actions/workflow/status/letisiapangataa/music-playlist-api/ci.yml?branch=main)  
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 
