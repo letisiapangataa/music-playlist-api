@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqcFB/RTft4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpang\\OneDrive\\ドキュメント\\GitHub\\music-playlist-api\\src\\Playlist.Domain\\Playlist.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpang\\.nuget\\packages\\confluent.kafka\\2.11.1\\confluent.kafka.2.11.1.nupkg.sha512",
+    "C:\\Users\\lpang\\.nuget\\packages\\librdkafka.redist\\2.11.1\\librdkafka.redist.2.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

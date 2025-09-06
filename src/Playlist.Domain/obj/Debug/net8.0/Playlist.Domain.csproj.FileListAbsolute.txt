@@ -1,0 +1,13 @@
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\bin\Debug\net8.0\Playlist.Domain.deps.json
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\bin\Debug\net8.0\Playlist.Domain.dll
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\bin\Debug\net8.0\Playlist.Domain.pdb
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\bin\Debug\net8.0\Playlist.Domain.xml
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.AssemblyInfoInputs.cache
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.AssemblyInfo.cs
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.dll
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\refint\Playlist.Domain.dll
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.xml
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\Playlist.Domain.pdb
+C:\Users\lpang\OneDrive\ドキュメント\GitHub\music-playlist-api\src\Playlist.Domain\obj\Debug\net8.0\ref\Playlist.Domain.dll
