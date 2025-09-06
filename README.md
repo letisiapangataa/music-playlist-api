@@ -1,4 +1,4 @@
-# Music Playlist API  
+# Music Playlist API (2025)
 
 ![CI](https://img.shields.io/github/actions/workflow/status/letisiapangataa/music-playlist-api/ci.yml?branch=main)  
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)  
@@ -101,3 +101,5 @@ Contributions are welcome! Please open issues or submit pull requests.
 ## License
 
 This project is licensed under the MIT License.
+
+(c) 2025 Letisia Pangata'a.
