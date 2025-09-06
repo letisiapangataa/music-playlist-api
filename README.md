@@ -1,5 +1,4 @@
 # Music Playlist API  
-<!-- (C) 2025 Letisia Pangata'a (@letisiapangataa) -->
 
 ![CI](https://img.shields.io/github/actions/workflow/status/letisiapangataa/music-playlist-api/ci.yml?branch=main)  
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)  
@@ -15,7 +14,7 @@ It demonstrates:
 - Automated testing using xUnit and FluentAssertions  
 - CI/CD pipelines with GitHub Actions  
 - Error handling and edge-case coverage for reliability  
-- An optional React + Vite frontend for visualization  
+- An optional React + Vite frontend for visualisation  
 
 ---
 ## Screenshot (Live Action)
