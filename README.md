@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-This Music Playlist API is a project built with .NET 8 minimal APIs that allows users to create playlists, add or remove tracks, and fetch playlist details.  
+A Music Playlist API is a project built with .NET 8 minimal APIs that allows users to create playlists, add or remove tracks, and fetch playlist details.  
 
 It demonstrates:
 - Event-driven architecture with pluggable event buses (InMemory, RabbitMQ, Kafka)  
